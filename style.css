@@ -29,5 +29,5 @@ button {
   color: var(--cor-destaque);
   border: 2px solid var(--cor-destaque); 
   border-radius: 15px;
-  padding: 15px;
+  padding: 25px;
   transition: background-color 0.3s;}
