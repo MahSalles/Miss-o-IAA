@@ -15,7 +15,13 @@ body {
 }
 .caixa-principal{
   background-color: var(--cor-principal);
-  width: 90%;
+  /* MUDANÇA: Defina a largura e a altura para o mesmo valor */
+  width: 50vw; /* 50% da largura da tela */
+  height: 50vw; /* 50% da largura da tela = Quadrado */
+  /* --- Adicionei um max-width para telas muito grandes --- */
+  max-width: 500px; /* Limita o tamanho máximo do quadrado */
+  max-height: 500px;
+  /* ----------------------------------------------------- */
   text-align: center;
   padding: 20px;
 }
