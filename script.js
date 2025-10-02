@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
             texto:"Isso é assustador !",
-            afirmacao:"afirmação"
+            afirmacao:"Não confio que uma IA iria conseguir detectar uma fake news, ela poderia hackear meus dados."
             },
             {
             texto:"Isso é muito útil !!!",
-            afirmacao:"afirmação"
+            afirmacao:"Seria perfeito, tem muitas pessoas maldosas que publicam fake news e acredito que seja confiável."
             }
             
         ]
@@ -24,11 +24,11 @@ const perguntas = [
         alternativas: [
             {
             texto:"Usaria a IA que achei",
-            afirmacao:"afirmação"
+            afirmacao:"Como confio muito nessa IA iria usar ela porque tenho curiosidade para saber a verdade."
             },
             {
            texto: "Repasso para todo mundo por precaução e corro para comentar nas redes sociais.",
-            afirmacao:"afirmação"
+            afirmacao:"Não acredito nessa IA e com certeza a notícia é verdadeira."
             }
         ]
     },
@@ -37,11 +37,11 @@ const perguntas = [
         alternativas: [
             {
             texto:"Pesquisa em outras fontes se a informação realmente é falsa e a IA é realmente segura para ser utilizada.",
-            afirmacao:"afirmação"
+            afirmacao:"Até pode ser verdade que essa IA funcione, mas é melhor pesquisar mais por garantia. "
             },
             {
             texto:"Acredito que a IA é segura e não vou atrás de outras fontes para  confirmar a informação.",
-            afirmacao:"afirmação"
+            afirmacao:"Confio nela, afinal está ajudando muitas pessoas."
             }
         ]
     },
@@ -50,11 +50,11 @@ const perguntas = [
         alternativas: [
             {
             texto:"Repassar o site para seus amigos e nos da uma avaliação positiva",
-            afirmacao:"afirmação"
+            afirmacao:"Gostei muito, vou passar sim para todos e fazer avaliações positivas."
             },
             {
             texto:"Gosto do site dou avaliação positiva mas não repasso para ninguém ",
-            afirmacao:"afirmação"
+            afirmacao:"Melhor não repassar afinal pode ser só sorte que dessa vez funcionou."
             }
         ]
     },
