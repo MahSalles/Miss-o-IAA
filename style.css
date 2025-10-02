@@ -34,8 +34,17 @@ h1{
   height: 50vw;
   max-width: 500px;
   max-height: 500px;
-  padding: 20px;}
+  padding: 20px;
+}
 button:hover {
   background-color: var(--cor-destaque);
   color: var(--cor-secundaria);
 }
+button {
+  background-color: var(--cor-principal);
+  color: var(--cor-destaque);
+  /* RECOMENDADO: Adicione uma borda para realçar os botões */
+  border: 2px solid var(--cor-destaque); 
+  border-radius: 15px;
+  padding: 15px;
+  transition: background-color 0.3s;}
